@@ -1,0 +1,42 @@
+C:\Users\Personal\Documents\My Test\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\My Test\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+C:\Users\Personal\Documents\My Test\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+C:\Users\Personal\Documents\My Test\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+C:\Users\Personal\Documents\My Test\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+C:\Users\Personal\Documents\My Test\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+C:\Users\Sampan\Downloads\StockManagementSystem\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+C:\Users\Sampan\Downloads\StockManagementSystem\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+C:\Users\Sampan\Downloads\StockManagementSystem\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+C:\Users\Sampan\Downloads\StockManagementSystem\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+C:\Users\Sampan\Downloads\StockManagementSystem\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+C:\Users\Sampan\Downloads\StockManagementSystem\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Softify-PC3\Downloads\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+C:\Users\Softify-PC3\Downloads\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+C:\Users\Softify-PC3\Downloads\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+C:\Users\Softify-PC3\Downloads\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Softify-PC3\Downloads\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+C:\Users\Softify-PC3\Downloads\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+D:\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+D:\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+D:\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+D:\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\StockManagementSystem(4-May-18)Ver-2\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+C:\Users\Personal\Desktop\StockManagementSystem(4-May-18)Ver-2\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+C:\Users\Personal\Desktop\StockManagementSystem(4-May-18)Ver-2\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+C:\Users\Personal\Desktop\StockManagementSystem(4-May-18)Ver-2\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\StockManagementSystem(4-May-18)Ver-2\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+C:\Users\Personal\Desktop\StockManagementSystem(4-May-18)Ver-2\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+C:\Users\Personal\Desktop\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+C:\Users\Personal\Desktop\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+C:\Users\Personal\Desktop\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+C:\Users\Personal\Desktop\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+C:\Users\Personal\Desktop\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
+G:\BITM CLASS\Final Submission\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+G:\BITM CLASS\Final Submission\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+G:\BITM CLASS\Final Submission\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+G:\BITM CLASS\Final Submission\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+G:\BITM CLASS\Final Submission\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+G:\BITM CLASS\Final Submission\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem(6-May-18)Ver-3\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
